@@ -204,7 +204,7 @@
 		"type": "function"
 	},
 	{
-		"inputs": [],
+		"inputs": [2.5],
 		"name": "cost",
 		"outputs": [
 			{
