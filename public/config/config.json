@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xda3c9971668fd0122b5e23c015fe81ebc6211338",
+  "SCAN_LINK": "https://polygonscan.com/token/0xda3c9971668fd0122b5e23c015fe81ebc6211338",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cube HeadZ Original Club",
+  "SYMBOL": "CHOC",
+  "MAX_SUPPLY": 3300,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 2.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cube-headz-original-club",
+  "SHOW_BACKGROUND": true
+}
