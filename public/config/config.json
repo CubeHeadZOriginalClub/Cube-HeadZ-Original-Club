@@ -10,9 +10,9 @@
   "SYMBOL": "CHOC",
   "MAX_SUPPLY": 3300,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 2.5,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cube-headz-original-club",
   "SHOW_BACKGROUND": true
 }
