@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/Discord.pdf", "_blank");
+                  window.open(CONFIG.DISCORD_LINK, "_blank");
                 }}
                 style={{
                   margin: "5px",
